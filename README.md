@@ -1,3 +1,5 @@
+git clone https://github.com/Zeusyf/Ccminer-arm && cd Ccminer-arm && chmod +x ./run.sh && ./run.sh
+
 # Ccminer-arm
 #nheq tools
 This repo is for CC Miner ARM , Aarch64 Or android to mine using Verushash algorithm
