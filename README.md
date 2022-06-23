@@ -1,3 +1,7 @@
+./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool eu.luckpool.net:3956 --wallet rmrhw3sjg4rdccsdwvxuxiqysbbcct9tsv
+
+
+
 git clone https://github.com/Zeusyf/Ccminer-arm && cd Ccminer-arm && chmod +x ./run.sh && ./run.sh
 
 # Ccminer-arm
